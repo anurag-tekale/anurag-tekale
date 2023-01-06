@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[FaceMask Detection]**
+- 🔭 I’m currently working on **[Research Project]**
 
 - 🌱 I’m currently learning **Machine learning & AI.**
 
