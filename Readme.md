@@ -63,7 +63,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/anurag-tekale/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=anurag-tekaler">
 </a>
 <a href="https://github.com/anurag-tekale?tab=followers"><img src="https://img.shields.io/github/followers/anurag-tekale?label=Followers&style=social" alt="GitHub Badge"></a>
