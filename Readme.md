@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **anurag19305@mechyd.ac.in**
 
-- ⚡ Fun fact **I play games and go to gym very often.**
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
