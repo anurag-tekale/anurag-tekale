@@ -19,15 +19,15 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/office/16/react.png"/> </a>
+    <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/office/64/react.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/mongo-db.png"> </a> 
     <a href="https://expressjs.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/express-js.png"/> </a> 
     <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.icons8.com/nolan/64/node-js.png"/> </a> 
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/28/external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-fresh-tal-revivo.png"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo.png"/> </a> 
-    <a href="https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/material-ui.png"/> </a>
-    <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/graphql.png"/> </a>
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/nextjs.png"/> </a>
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/nolan/64/external-tal-revivo-fresh-tal-revivo/28/external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-fresh-tal-revivo.png"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/64/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo.png"/> </a> 
+    <a href="https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/64/material-ui.png"/> </a>
+    <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/ios-filled/64/graphql.png"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/fluency/64/nextjs.png"/> </a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
