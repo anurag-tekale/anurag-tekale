@@ -19,7 +19,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://react.dev/" target="_blank"> <img src="https://icons8.com/icon/bzf0DqjXFHIW/react"/> </a>
+    <a href="https://react.dev/" target="_blank"> <img src="https://icons8.com/icon/bzf0DqjXFHIW/react/"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://icons8.com/icon/o6OvAxG0nzTH/mongo-db"> </a> 
     <a href="https://expressjs.com/" target="_blank"> <img src="https://icons8.com/icon/2ZOaTclOqD4q/express-js"/> </a> 
     <a href="https://nodejs.org/en/" target="_blank"><img src="https://icons8.com/icon/ouWtcsgDBiwO/node-js"/> </a> 
