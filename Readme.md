@@ -23,7 +23,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/mongo-db.png"> </a> 
     <a href="https://expressjs.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/express-js.png"/> </a> 
     <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.icons8.com/nolan/64/node-js.png"/> </a> 
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/nolan/64/external-tal-revivo-fresh-tal-revivo/28/external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-fresh-tal-revivo.png"/> </a> 
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/64/external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-fresh-tal-revivo.png"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/64/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo.png"/> </a> 
     <a href="https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/64/material-ui.png"/> </a>
     <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/ios-filled/64/graphql.png"/> </a>
