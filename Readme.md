@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://anurag-tekale.web.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://anuragtekale.vercel.app/)**
 
 - 📫 How to reach me **anurag19305@mechyd.ac.in**
 
